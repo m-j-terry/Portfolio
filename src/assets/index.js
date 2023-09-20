@@ -1,4 +1,4 @@
-import fiDi from './backgrounds/Fidi.jpg';
+import fiDi from './backgrounds/FiDi.jpg';
 import newYork from './backgrounds/new-york.jpg';
 import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
