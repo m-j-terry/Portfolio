@@ -1,12 +1,13 @@
-import bwmap from './backgrounds/bw-map.jpeg';
-import nairobi from './backgrounds/nairobi.png';
+import fiDi from './backgrounds/Fidi.jpg';
+import newYork from './backgrounds/new-york.jpg';
 import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
+import black from './backgrounds/black.png'
 
 import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
 
-import shaq from './personal/shaq.png';
+import michael from './personal/michael.png';
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
@@ -38,26 +39,25 @@ import graphql from './tech/graphql.png';
 import postgresql from './tech/postgresql.png';
 import rubyrails from './tech/rubyrails.png';
 
-import coverhunt from './company/coverhunt.png';
-import dcc from './company/dcc.png';
-import kelhel from './company/kelhel.png';
-import microverse from './company/microverse.png';
+import coverhunt from './company/general-assembly.png';
+import dcc from './company/geneva.png';
+import kelhel from './company/charity.png';
+import microverse from './company/tkc.png';
 
-import komikult from './projects/komikult.png';
-import leaderboard from './projects/leaderboard.png';
-import math from './projects/math-magicians.png';
-import movie from './projects/movie-metro.png';
-import nyeusi from './projects/nyeusi.png';
-import space from './projects/space-hub.png';
+import komikult from './projects/hamlet.jpg';
+import frogger from './projects/frogger.jpeg';
+import math from './projects/bazaar.png';
+import movie from './projects/newspapers.jpeg';
+import nyeusi from './projects/library.jpeg';
 
 export {
-  bwmap,
-  nairobi,
+  fiDi,
+  newYork,
   whiteabstract,
   worldmap,
   logo,
   logotext,
-  shaq,
+  michael,
   backend,
   ux,
   frontend,
@@ -87,12 +87,12 @@ export {
   tailwind,
   typescript,
   komikult,
-  leaderboard,
+  frogger,
   math,
   movie,
   nyeusi,
-  space,
   coverhunt,
+  black,
   dcc,
   kelhel,
   microverse,

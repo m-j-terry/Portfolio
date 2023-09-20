@@ -29,21 +29,21 @@ const Contact = () => {
     //click on create a new template then click on save.
     emailjs
       .send(
-        'serviceID', // paste your ServiceID here (you'll get one when your service is created).
+        'service_0oxonnc', // paste your ServiceID here (you'll get one when your service is created).
         'templateID', // paste your TemplateID here (you'll find it under email templates).
         {
           from_name: form.name,
-          to_name: 'YourName', // put your name here.
+          to_name: 'Michael J Terry', // put your name here.
           from_email: form.email,
-          to_email: 'youremail@gmail.com', //put your email here.
+          to_email: 'michaeljterry0815@gmail.com', //put your email here.
           message: form.message,
         },
-        'yourpublickey' //paste your Public Key here. You'll get it in your profile section.
+        'rL2rMxi_lBeinMuC-' //paste your Public Key here. You'll get it in your profile section.
       )
       .then(
         () => {
           setLoading(false);
-          alert('Thank you. I will get back to you as soon as possible.');
+          alert('Thank you for your inquiry. I will get back to you as quickly as possible! However, please allow at least two full business days for a response.');
 
           setForm({
             name: '',

@@ -37,12 +37,9 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+        I am a Brooklyn transplant, originally from Lenoir, NC. I moved to the city for college, hated city life (because I was living in the financial district), then fell in love with New York and never moved back.
+        I became a teacher after graduating, and am grateful for the opportunities I was given to work alongside inspiring teachers as well as to work the kindest group of students in the city. I joined General Assembly's Software Engineering Immersive program in hopes of changing career paths to something with better work-life balance, only to find that coding was an end enjoyable in itself. 
+        Now I am searching for a new role where I can expand my knowledge of code! Leave me a message below if you have any opportunities or inquiries. 
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
