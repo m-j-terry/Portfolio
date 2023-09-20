@@ -45,7 +45,7 @@ import kelhel from './company/charity.png';
 import microverse from './company/tkc.png';
 
 import komikult from './projects/hamlet.jpg';
-import frogger from './projects/frogger.jpeg';
+import frogger from './projects/Frogger.jpeg';
 import math from './projects/bazaar.png';
 import movie from './projects/newspapers.jpeg';
 import nyeusi from './projects/library.jpeg';
