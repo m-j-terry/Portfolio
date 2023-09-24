@@ -46,8 +46,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              "Don't be sorry, be fierce." <br className="sm:block hidden" />
-                -RuPaul
+              It's 1s and 0s all the way down...
             </p>
           </div>
           <div
