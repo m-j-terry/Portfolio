@@ -49,6 +49,8 @@ import frogger from './projects/Frogger.jpeg';
 import math from './projects/bazaar.png';
 import movie from './projects/newspapers.jpeg';
 import nyeusi from './projects/library.jpeg';
+import resumepng from './projects/resume.png'
+
 
 export {
   fiDi,
@@ -96,4 +98,5 @@ export {
   dcc,
   kelhel,
   microverse,
+  resumepng
 };

@@ -26,6 +26,7 @@ import {
   dcc,
   kelhel,
   microverse,
+  resumepng
 } from '../assets';
 
 export const navLinks = [
@@ -240,13 +241,13 @@ const projects = [
     ],
     image: movie,
     repo: 'https://github.com/m-j-terry/knightly_news',
-    demo: 'https://github.com/m-j-terry/knightly_news',
+    demo: 'https://knightlynews.mjterry.me/',
   },
   {
     id: 'project-5',
-    name: 'Library API',
+    name: 'ATS Resume Checker',
     description:
-      'CRUD-API designed to simulate an e-library\'s searching and checkout functionality.',
+      'Simple-to-use React Application that checks a job description and resume for buzzwords.',
     tags: [
       {
         name: 'nextjs',
@@ -261,9 +262,9 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: nyeusi,
-    repo: 'https://github.com/m-j-terry/unit-2-project',
-    demo: 'https://github.com/m-j-terry/unit-2-project',
+    image: resumepng,
+    repo: 'https://github.com/m-j-terry/resume_checker',
+    demo: 'https://ats-resume-checker.mjterry.me/',
   },
 ];
 
