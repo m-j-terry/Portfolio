@@ -224,7 +224,7 @@ const projects = [
   {
     id: 'project-4',
     name: 'Knightly News',
-    description: `Multi-page MERN-stack application for student run newspaper at The Geneva School of Manhattan. Site password: friendship`,
+    description: `Multi-page MERN-stack application for student run newspaper at The Geneva School of Manhattan.`,
     tags: [
       {
         name: 'nextjs',
