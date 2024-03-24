@@ -49,7 +49,8 @@ import frogger from './projects/Frogger.jpeg';
 import math from './projects/bazaar.png';
 import movie from './projects/newspapers.jpeg';
 import nyeusi from './projects/library.jpeg';
-import resumepng from './projects/resume.png'
+import resumepng from './projects/resume.png';
+import garbage from './projects/garbage.JPG'
 
 
 export {
@@ -98,5 +99,6 @@ export {
   dcc,
   kelhel,
   microverse,
-  resumepng
+  resumepng,
+  garbage
 };

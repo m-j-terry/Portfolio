@@ -26,7 +26,8 @@ import {
   dcc,
   kelhel,
   microverse,
-  resumepng
+  resumepng,
+  garbage
 } from '../assets';
 
 export const navLinks = [
@@ -266,6 +267,29 @@ const projects = [
     repo: 'https://github.com/m-j-terry/resume_checker',
     demo: 'https://ats-resume-checker.mjterry.me/',
   },
+  {
+    id: 'project-6',
+    name: '@trash.pandas_ofnyc',
+    description:
+      'React Application with a mock instagram feed and a SQL library to display the data collected by @trash.pandas_ofnyc.',
+    tags: [
+      {
+        name: 'nextjs',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'supabase',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'css',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: garbage,
+    repo: 'https://github.com/m-j-terry/TrashPandasofNYC',
+    demo: 'https://trash-pandasof-nyc.vercel.app/',
+  }
 ];
 
 export { services, technologies, experiences, projects };
