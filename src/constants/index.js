@@ -157,25 +157,26 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'Hamlet Coffee Co.',
-    description: 'Single page web application designed for Hamlet Coffee Co. in Prospect Lefferts Gardens, Brooklyn, NY.',
+    name: '@trash.pandas_ofnyc',
+    description:
+      'React Application with a mock instagram feed and a SQL library to display the data collected by @trash.pandas_ofnyc.',
     tags: [
       {
-        name: 'react',
+        name: 'nextjs',
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'supabase',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'css',
         color: 'pink-text-gradient',
       },
     ],
-    image: komikult,
-    repo: 'https://github.com/m-j-terry/Cafe-MERN',
-    demo: 'https://hamletcoffeecompany.mjterry.me/',
+    image: garbage,
+    repo: 'https://github.com/m-j-terry/TrashPandasofNYC',
+    demo: 'https://trash-pandasof-nyc.vercel.app/',
   },
   {
     id: 'project-2',
@@ -266,29 +267,6 @@ const projects = [
     image: resumepng,
     repo: 'https://github.com/m-j-terry/resume_checker',
     demo: 'https://ats-resume-checker.mjterry.me/',
-  },
-  {
-    id: 'project-6',
-    name: '@trash.pandas_ofnyc',
-    description:
-      'React Application with a mock instagram feed and a SQL library to display the data collected by @trash.pandas_ofnyc.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: garbage,
-    repo: 'https://github.com/m-j-terry/TrashPandasofNYC',
-    demo: 'https://trash-pandasof-nyc.vercel.app/',
   }
 ];
 
