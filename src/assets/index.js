@@ -97,6 +97,5 @@ export {
   dcc,
   kelhel,
   microverse,
-  resumepng,
-  garbage
+  resumepng
 };
