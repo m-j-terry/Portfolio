@@ -98,5 +98,6 @@ export {
   dcc,
   kelhel,
   microverse,
-  resumepng
+  resumepng,
+  trashpandas
 };
