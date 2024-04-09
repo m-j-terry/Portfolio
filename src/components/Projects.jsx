@@ -124,15 +124,15 @@ const Projects = () => {
         <motion.p
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-          Projects like Hamlet Coffee Co., Knightly News, and Bazaar demonstrate my intuitive, 
+          Projects like <a href="https://hamletcoffeecompany.mjterry.me/">Hamlet Coffee Co.</a>, Knightly News, and Bazaar demonstrate my intuitive, 
           forward-thinking mindset when it comes to both frontend and backend design. 
           Frogger is an example of how I've scaled a concept from
           a simple 10 row gameboard to an infinite scrolling board 
           with a (recently-added!) backend API for highscores. 
           ATS Resume Checker introduces a programmatic solution for developers looking 
           to customize and enhance their resumes for each application.
-          You can also check out my most recent React application <a href="https://trash-pandasof-nyc.vercel.app/">Trash Pandas of NYC</a>
-          where I mapped an entire excel spreadsheet into a SQL database, which is accessible through a simple backend API.
+          You can also check out my most recent React application, Trash Pandas of NYC, below;
+          for this project, I mapped a multi-sheet excel spreadsheet into a SQL database, which is accessible through a simple backend API.
         </motion.p>
       </div>
 

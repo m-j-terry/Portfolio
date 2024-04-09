@@ -27,6 +27,7 @@ import {
   kelhel,
   microverse,
   resumepng,
+  trashpandas
 } from '../assets';
 
 export const navLinks = [
@@ -173,7 +174,7 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: garbage,
+    image: trashpandas,
     repo: 'https://github.com/m-j-terry/TrashPandasofNYC',
     demo: 'https://trash-pandasof-nyc.vercel.app/',
   },
