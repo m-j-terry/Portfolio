@@ -27,7 +27,6 @@ import {
   kelhel,
   microverse,
   resumepng,
-  garbage
 } from '../assets';
 
 export const navLinks = [
