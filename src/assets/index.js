@@ -41,7 +41,7 @@ import rubyrails from './tech/rubyrails.png';
 
 import coverhunt from './company/general-assembly.png';
 import dcc from './company/geneva.png';
-import kelhel from './company/charity.png';
+import kelhel from './company/PA-logo.png';
 import microverse from './company/tkc.png';
 
 import komikult from './projects/hamlet.jpg';

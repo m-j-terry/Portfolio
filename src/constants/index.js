@@ -125,6 +125,13 @@ const technologies = [
 
 const experiences = [
   {
+    title: 'Founding Engineer',
+    company_name: 'Product Advisory',
+    icon: kelhel,
+    iconBg: '#333333',
+    date: 'Mar 2023 - Present',
+  },
+  {
     title: 'Engineering Fellow',
     company_name: 'General Assembly',
     icon: coverhunt,
@@ -137,13 +144,6 @@ const experiences = [
     icon: dcc,
     iconBg: '#333333',
     date: 'Aug 2021 - Present',
-  },
-  {
-    title: 'Van-driver/food-distributor (volunteer)',
-    company_name: 'New York Gospel Mission',
-    icon: kelhel,
-    iconBg: '#333333',
-    date: 'Aug 2017 - Present',
   },
   {
     title: 'Campus Tour Guide, Event Planner',
