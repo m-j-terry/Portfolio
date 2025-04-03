@@ -75,7 +75,7 @@ const ProjectCard = ({
               font-poppins tracking-[1px]">
               {description}
             </p>
-            {(ProjectCard.name === "@trashpandas_ofNYC" || ProjectCard.name === "Frogger") && (
+            {(name === "@trashpandas_ofNYC" || name === "Frogger") && (
               <button
                 className="live-demo flex justify-between 
                 sm:text-[16px] text-[14px] text-timberWolf 
