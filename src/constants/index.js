@@ -27,7 +27,8 @@ import {
   kelhel,
   microverse,
   resumepng,
-  trashpandas
+  trashpandas,
+  nwnc
 } from '../assets';
 
 export const navLinks = [
@@ -125,11 +126,18 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Founding Engineer',
+    title: 'Business Process Engineer',
+    company_name: 'NWN Carousel',
+    icon: nwnc,
+    iconBg: '#333333',
+    date: 'Aug 2024 - present'
+  },
+  {
+    title: 'Engineering Intern',
     company_name: 'Product Advisory',
     icon: kelhel,
     iconBg: '#333333',
-    date: 'Mar 2023 - Present',
+    date: 'Mar 2023 - Aug 2023',
   },
   {
     title: 'Engineering Fellow',
@@ -142,8 +150,8 @@ const experiences = [
     title: 'Sixth Grade Grammar Teacher',
     company_name: 'The Geneva School of Manhattan',
     icon: dcc,
-    iconBg: '#333333',
-    date: 'Aug 2021 - Present',
+    iconBg: '#d3d3d3',
+    date: 'Aug 2021 - Jul 2024',
   },
   {
     title: 'Campus Tour Guide, Event Planner',

@@ -43,6 +43,8 @@ import coverhunt from './company/general-assembly.png';
 import dcc from './company/geneva.png';
 import kelhel from './company/PA-logo.png';
 import microverse from './company/tkc.png';
+import nwnc from './company/nwnc.png'
+
 
 import komikult from './projects/hamlet.jpg';
 import frogger from './projects/Frogger.jpeg';
@@ -50,7 +52,7 @@ import math from './projects/bazaar.png';
 import movie from './projects/newspapers.jpeg';
 import nyeusi from './projects/library.jpeg';
 import resumepng from './projects/resume.png';
-import trashpandas from './projects/trashpandas.png'
+import trashpandas from './projects/trashpandas.png';
 
 export {
   fiDi,
@@ -99,5 +101,6 @@ export {
   kelhel,
   microverse,
   resumepng,
-  trashpandas
+  trashpandas,
+  nwnc
 };
